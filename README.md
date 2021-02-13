@@ -4,7 +4,7 @@ Listedeki filmlere verdiğiniz kişisel puanlamalara karşılık farklı bir lis
 Not: Programın edinilen başarı yüzdeleri ve veriler doğrultusunda kendisine çeki düzen vermesi sağlanacaktır.
 
 # Nasıl Çalışır?
-12 adet filmin aksiyon, komedi ve korku puanları önceden belirlenmiştir. Kullanıcının bu filmlere verdiği puanlara göre kullanıcının aksiyon, komedi ve korku istekleri çeşitli matematik işlemleri ile belirlenir. Bu istek işlemlerine göre: yine daha önceden aksiyon, komedi ve korku puanları daha önceden belirlenmiş filmler sıralanır.
+12 adet filmin aksiyon, komedi ve korku puanları önceden belirlenmiştir. Kullanıcının bu filmlere verdiği puanlara göre kullanıcının aksiyon, komedi ve korku istekleri çeşitli matematik işlemleri ile belirlenir. Bu istek işlemlerine göre: yine daha önceden aksiyon, komedi ve korku puanları belirlenmiş filmler sıralanır.
 
 # Raporlama
 12 yeni filmin sıralanmasından sonra "Tavsiyeleri Değerlendir" aşamasında programın ne kadar doğru çalışıp çalışmadığını raporlayabilirsiniz.
