@@ -9,6 +9,7 @@ Listedeki filmlere verdiğiniz kişisel puanlamalara karşılık farklı bir lis
 Bu raporlamanın mantığı ise: filmlerin tavsiye sırası ile sizin o tavsiyelere verdiğiniz puanların sırasının karşılaştırmasından ibarettir.
 Örneğin: Bir film tavsiye sıralamasında 3. iken tavsiye değerlendirme puanlarınızda 5. ise bu "iki farklık" bir başarısızlıktır.
 Tüm bu farklar ne kadar az olursa o kadar başarılı sayılırız. 
+
 Raporlamadaki başarı yüzdesi:
 toplam fark: a 
 oluşabilecek maksimum fark: b
