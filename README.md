@@ -16,6 +16,6 @@ toplam fark: a
 
 oluşabilecek maksimum fark: b
 
-dersek => (b-a) / b
+(b-a) / b
 
 işlemi üzerinden ilerlemektedir.
