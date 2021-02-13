@@ -10,8 +10,12 @@ Bu raporlamanın mantığı ise: filmlerin tavsiye sırası ile sizin o tavsiyel
 Örneğin: Bir film tavsiye sıralamasında 3. iken tavsiye değerlendirme puanlarınızda 5. ise bu "iki farklık" bir başarısızlıktır.
 Tüm bu farklar ne kadar az olursa o kadar başarılı sayılırız. 
 
-Raporlamadaki başarı yüzdesi:
+# Başarı Yüzdesi Hesaplama
+
 toplam fark: a 
+
 oluşabilecek maksimum fark: b
+
 dersek => (b-a) / b
+
 işlemi üzerinden ilerlemektedir.
