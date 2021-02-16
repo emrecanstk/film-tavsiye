@@ -2,11 +2,11 @@ Spider Man:9,6,0
 Hızlı ve Öfkeli:9,5,1
 Truman Show:3,10,1
 AROG:5,10,1
-Interstaller:9,3,3
+Interstaller:10,3,4
 Cars:5,9,0
 The Saw:6,0,10
 Lotr:9,4,3
-Organize İşler:4,7,3
-Kafalar Karışık:1,3,0
+Organize İşler:4,8,3
+Kafalar Karışık:1,6,0
 I.T:5,0,11
-Prestij:7,3,4
+Prestij:8,3,5
